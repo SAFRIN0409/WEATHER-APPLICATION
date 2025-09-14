@@ -6,7 +6,10 @@ Built with plain HTML, CSS and JavaScript. Shows current weather and a 5-day for
 ---
 
 ## 🔎 Live Demo
-> Add your deployed URL here (e.g. `https://your-site.netlify.app`) after you deploy the project.
+> Add your deployed URL here (https://safrin0409.github.io/WEATHER-APPLICATION/) after you deploy the project.
+> ![Uploading image.png…]()
+> 
+
 
 ---
 
