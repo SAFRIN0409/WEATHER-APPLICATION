@@ -7,8 +7,8 @@ Built with plain HTML, CSS and JavaScript. Shows current weather and a 5-day for
 
 ## 🔎 Live Demo
 > Add your deployed URL here (https://safrin0409.github.io/WEATHER-APPLICATION/) after you deploy the project.
-> ![Uploading image.png…]()
-> 
+> <img width="1910" height="1149" alt="image" src="https://github.com/user-attachments/assets/ffde7837-eb43-468d-b37d-7dcb8c8e74a9" />
+
 
 
 ---
